@@ -1,0 +1,55 @@
+# train and val data
+train: /kaggle/input/earring-opencv/earring_opencv/images/train
+val: /kaggle/input/earring-opencv/earring_opencv/images/valid
+
+# class names
+names: 
+  0: 01_black_dot_pin
+  1: 02_sliver_hook
+  2: 03_green_ring_pin
+  3: 04_yellow_ball
+  4: 05_green_ring
+  5: 06_white_ring
+  6: 07_white_thin_ring
+  7: 08_slippers
+  8: 09_hand
+  9: 10_coke
+  10: 11_green_plate
+  11: 12_yellow_plate
+  12: 13_soju
+  13: 14_yellow_square_pin
+  14: 15_ear_clip
+  15: 16_ribbon
+  16: 17_flower
+  17: 18_bear
+  18: 19_yellow_dot_pin
+  19: 20_oval
+  20: 21_blue_polygon
+  21: 22_corgi
+  22: 23_metal_square
+  23: 24_big_eye
+  24: 25_small_eye
+  25: 26_pearl
+  26: 27_gemstone_ring
+  27: 28_four_leaf_clover
+  28: 29_hollow_flower
+  29: 30_mother_of_pearl
+  30: 31_red_bead
+  31: 32_water_droplets
+  32: 33_silver_rose
+  33: 34_big_polka_dot
+  34: 35_large_black_ring
+  35: 36_white_dot_pin
+  36: 37_girl
+  37: 38_small_polka_dot
+  38: 39_medium_black_ring
+  39: 40_small_black_ring
+  40: 41_black_polygon
+  41: 42_white_polygon
+  42: 43_dinosaur
+  43: 44_golden_hook
+  44: 45_fox_face
+  45: 46_red_cone
+  46: 47_tassel
+  47: 48_golden_pin
+  48: 49_yellow_ring
